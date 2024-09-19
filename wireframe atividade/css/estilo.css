@@ -1,0 +1,48 @@
+#container{
+    width: 1000px;
+    height: auto;
+    margin: 0 auto;
+}
+
+header{
+    width: 1000px;
+    height: 200px;
+    background-color: mediumaquamarine;
+}
+
+.banner{
+    width: 1000px;
+    height: 200px;
+    background-color: gray;
+}
+
+main{
+    width: 1000px;
+    height: auto;
+    background-color: black;
+}
+
+article{
+    width: 500px;
+    height: 200px;
+    background-color: aquamarine;
+    float: left;
+}
+
+aside{
+    width: 250px;
+    height: 200px;
+    background-color: blueviolet;
+    float: right;
+}
+
+aside{
+    width: 250px;
+    height: 200px;
+    background-color: green;
+    float: right;
+}
+
+
+
+
